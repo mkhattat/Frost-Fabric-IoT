@@ -1,0 +1,6 @@
+[submodule "frost.rust"]
+	path = frost.rust
+	url = https://github.com/mkhattat/frost.rust
+[submodule "frost.go"]
+	path = frost.go
+	url = https://github.com/mkhattat/frost
